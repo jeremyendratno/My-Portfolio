@@ -14,7 +14,7 @@ Foundee is a lost and found app that helps people find their lost things or get 
 
 Foundee is my second app on my intern at Apple Developer Academy. My role is to make the backend and integrate the API on the apps. I also made the lost and found create post UI.
 
-Repository Link: Not Available
+Repository Link: Not Available <br>
 TestFlight: Once TestFlighted but not available for now
 
 <p align="center">
@@ -26,7 +26,7 @@ Wufy is a dog training app with fun and interactive UI that helps you track your
 
 Wufy is the last and best app that i and my team made on my intern at Apple Developer Academy, we managed to get Wufy to publish on AppStore. My Role is to make the dog character movement and animation with SpriteKit. Also the daily walk page UI and function logic with CoreMotion.
 
-Repository Link: Not Available
+Repository Link: Not Available <br>
 AppStore: 
 
 <p align="center">
@@ -35,9 +35,10 @@ AppStore:
 
 # Cooking Book Recipes
 Cooking Book Recipes is a recipes app that helps you cook by providing recipes that can be presented without touching the phone.
+
 Cooking Book Recipes was my first solo project app that made to fulfill my final exam at university. Cooking Book Recipes was made with Voice Recognition, Natural Language Processing, and Speech Synthesis. These technologies were integrated to give the user the best experience to interact with the app without touching the phone and using only voice commands.
 
-Repository Link: https://gitlab.com/jeremyendratno/5ThingsTugasAkhir
+Repository Link: https://gitlab.com/jeremyendratno/5ThingsTugasAkhir <br>
 TestFlight: Once TestFlighted but not available for now
 
 <p align="center">
@@ -46,9 +47,10 @@ TestFlight: Once TestFlighted but not available for now
 
 # PretHome
 PretHome is an IoT integrated apps that control my home's gate from iOS.
+
 PretHome is a solo project app that is made just for fun learning IoT. This app was remote to control my home's gate online by giving information to Arudino that is implemented on the gate. So we can open the gate anywhere across the world with just one button on the app.
 
-Repository Link:
+Repository Link: <br>
 TestFlight: Not available
 
 <p align="center">
@@ -57,7 +59,11 @@ TestFlight: Not available
 
 # GuessYourWaifu
 GuessYourWaifu is a guessing app that lets you be on the top of the scoreboard by guessing some female anime characters.
+
 GuessYourWaifu is a solo project app that is made to learn the integration of Firebase. This app only has some basic functions with Firebase's Database real-time integration for the scoreboard. The scoreboard is like old school retro arcade game, so the user doesn't need to log in.
+
+Repository Link: <br>
+TestFlight: Not Available
 
 <p align="center">
 <img src="images/guessyourwaifu_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guessyourwaifu_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guessyourwaifu_3.PNG" width="226" title="Word Guess">
@@ -65,9 +71,10 @@ GuessYourWaifu is a solo project app that is made to learn the integration of Fi
 
 # Medikuy
 Medikuy is a medical app that provides you with some useful medical articles and to make an appointment with a doctor that you need.
+
 Medikuy is an app that was made in my intern at Alodokter. My role is to make a home page that includes articles with a search and filter function and an appointment page. I also need to call the API that was provided by the backend team.
 
-Repository Link: Not Available
+Repository Link: Not Available <br>
 TestFlight: Not Available
 
 <p align="center">
