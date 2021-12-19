@@ -1,2 +1,6 @@
-# Sakura
-Sakura is an iOS word-guessing game, which I recently built as a take-home project. The specs were to build a basic 'hangman' game, and to then extend it as I saw fit. I decided to run with it and build something a bit more positive, creative, and colorful. In my app, the Sakura tree loses blooms each time you make an incorrect guess. If you guess the word correctly, the tree bursts back into bloom with a lovely animation.
+# Fumi
+Fumi is an 
+
+<p align="center">
+<img src="images/fumi_1.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/images/fumi_2.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/fumi_3.png" width="226" title="Word Guess">
+</p>
