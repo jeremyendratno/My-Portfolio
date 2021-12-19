@@ -27,7 +27,7 @@ Wufy is a dog training app with fun and interactive UI that helps you track your
 Wufy is the last and best app that i and my team made on my intern at Apple Developer Academy, we managed to get Wufy to publish on AppStore. My Role is to make the dog character movement and animation with SpriteKit. Also the daily walk page UI and function logic with CoreMotion.
 
 Repository Link: Not Available <br>
-AppStore: 
+AppStore: https://apps.apple.com/id/app/wufy-dog-training/id1535423130
 
 <p align="center">
 <img src="images/wufy_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/wufy_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/wufy_3.PNG" width="226" title="Word Guess">
@@ -42,7 +42,7 @@ Repository Link: https://gitlab.com/jeremyendratno/5ThingsTugasAkhir <br>
 TestFlight: Once TestFlighted but not available for now
 
 <p align="center">
-<img src="images/cookingbookrecipes_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/cookingbookrecipes_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/cookingbookrecipes_3.PNG" width="226" title="Word Guess">
+<img src="images/cookingbookrecipes_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/cookingbookrecipes_2.PNG" width="230" title="Word Guess">
 </p>
 
 # PretHome
