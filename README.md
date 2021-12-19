@@ -48,7 +48,7 @@ TestFlight: Once TestFlighted but not available for now
 # PretHome
 PretHome is an IoT integrated apps that control my home's gate from iOS.
 
-PretHome is a solo project app that is made just for fun learning IoT. This app was remote to control my home's gate online by giving information to Arudino that is implemented on the gate. So we can open the gate anywhere across the world with just one button on the app.
+PretHome is a solo project app that is made just for fun learning IoT. This app is a remote to control my home's gate online by giving information to Arudino that is implemented on the gate. So we can open the gate anywhere across the world with just one button on the app.
 
 Repository Link: <br>
 TestFlight: Not available
@@ -62,11 +62,11 @@ GuessYourWaifu is a guessing app that lets you be on the top of the scoreboard b
 
 GuessYourWaifu is a solo project app that is made to learn the integration of Firebase. This app only has some basic functions with Firebase's Database real-time integration for the scoreboard. The scoreboard is like old school retro arcade game, so the user doesn't need to log in.
 
-Repository Link: <br>
+Repository Link: https://gitlab.com/jeremyendratno/GuessYourWaifu <br>
 TestFlight: Not Available
 
 <p align="center">
-<img src="images/guessyourwaifu_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guessyourwaifu_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guessyourwaifu_3.PNG" width="226" title="Word Guess">
+<img src="images/guessyourwaifu_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guessyourwaifu_2.PNG" width="230" title="Word Guess">
 </p>
 
 # Medikuy
