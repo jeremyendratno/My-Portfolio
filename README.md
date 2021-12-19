@@ -50,7 +50,7 @@ PretHome is an IoT integrated apps that control my home's gate from iOS.
 
 PretHome is a solo project app that is made just for fun learning IoT. This app is a remote to control my home's gate online by giving information to Arudino that is implemented on the gate. So we can open the gate anywhere across the world with just one button on the app.
 
-Repository Link: <br>
+Repository Link: https://gitlab.com/jeremyendratno/PretHome <br>
 TestFlight: Not available
 
 <p align="center">
