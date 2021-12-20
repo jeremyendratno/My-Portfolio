@@ -14,7 +14,7 @@ Foundee is a lost and found app that helps people find their lost things or get 
 
 Foundee is my second app on my intern at Apple Developer Academy. My role is to make the backend and integrate the API on the apps. I also made the lost and found create post UI.
 
-Repository Link: Not Available <br>
+Repository Link: https://gitlab.com/jeremyendratno/foundee <br>
 TestFlight: Once TestFlighted but not available for now
 
 <p align="center">
@@ -74,7 +74,7 @@ Medikuy is a medical app that provides you with some useful medical articles and
 
 Medikuy is an app that was made in my intern at Alodokter. My role is to make a home page that includes articles with a search and filter function and an appointment page. I also need to call the API that was provided by the backend team.
 
-Repository Link: Not Available <br>
+Repository Link: https://github.com/Rakamin-Bootcamp-Kelompok-1/alodokter-rakamin-ios-grup1 <br>
 TestFlight: Not Available
 
 <p align="center">
