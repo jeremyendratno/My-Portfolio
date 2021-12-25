@@ -1,7 +1,7 @@
 # Fumi
 Fumi is a period cycle tracker app with a pretty pinky UI that helps you go through your PMS.
 
-Fumi is my first app created by a well-organized team on my intern at Apple Developer Academy. My role is to make the calendar PMS cycle logic, Core Data, and homepage features like cookies, fun facts, and mood cycle.
+Fumi is my first app created by a well-organized team on my intern at Apple Developer Academy. My role is to make the calendar PMS cycle logic, managing user data with Core Data, and homepage features like cookies, fun facts, and mood cycle.
 
 Repository Link: Not Available <br>
 TestFlight: Once TestFlighted but not available for now
