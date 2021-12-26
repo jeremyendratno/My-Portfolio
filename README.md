@@ -84,7 +84,7 @@ TestFlight: Not Available
 # Stickiz
 Stickiz is a text storing apps that can be neatly categorized and be used on the keyboard extension.
 
-Stickiz is an app that was made to learn keyboard extension. This app data is stored in CoreData and shared with keyboard extension by app group. The app is made with UIKit and the keyboard extension made with SwiftUI, both of them were made with simple design.
+Stickiz is a solo project app that was made to learn keyboard extension. This app data is stored in CoreData and shared with keyboard extension by app group. The app is made with UIKit and the keyboard extension made with SwiftUI, both of them were made with simple design.
 
 Repository Link: https://github.com/jeremyendratno/Stickiz <br>
 TestFlight: Not Available
