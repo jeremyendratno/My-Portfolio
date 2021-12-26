@@ -80,3 +80,15 @@ TestFlight: Not Available
 <p align="center">
 <img src="images/medikuy_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/medikuy_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/medikuy_3.PNG" width="226" title="Word Guess">
 </p>
+
+# Stickiz
+Stickiz is a text storing apps that can be neatly categorized and be used on the keyboard extension.
+
+Stickiz is an app that was made to learn keyboard extension. This app data is stored in CoreData and shared with keyboard extension by app group. The app is made with UIKit and the keyboard extension made with SwiftUI, both of them were made with simple design.
+
+Repository Link: https://github.com/jeremyendratno/Stickiz <br>
+TestFlight: Not Available
+
+<p align="center">
+<img src="images/stickiz_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/stickiz_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/stickiz_3.PNG" width="226" title="Word Guess">
+</p>
