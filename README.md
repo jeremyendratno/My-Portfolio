@@ -111,7 +111,7 @@ Bright Staff is a brighton's staff app to help them with company's needs.
 Bright Staff help staff to take their attendance, look at their pay check, look at their shift, and request their paid leave. I made this app from scratch and kept it updated to company needs. This app uses simple UI that is very readable and user friendly. Kept the feature simple and easy to use.
 
 Respository Link: Not Available <br>
-AppStore: https://apps.apple.com/id/app/bright-staff/id1603758703
+Publication: https://apps.apple.com/id/app/bright-staff/id1603758703
 
 <p align="center"> 
 <img src="images/brightstaff_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brightstaff_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brightstaff_3.PNG" width="226" title="Word Guess">
@@ -123,7 +123,7 @@ Autism Love is a bank app from Korea.
 Autism love is a project from Fusion. A Team from fusion is handling this project, My role on the team is just some simple bug fixing.
 
 Respository Link: Not Available <br>
-AppStore: Not Available
+Publication: Not Available
 
 <p align="center"> 
 <img src="images/autismlove_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/autismlove_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/autismlove_3.PNG" width="226" title="Word Guess">
@@ -135,7 +135,7 @@ Covid Calendar is a calendar feature for lodging app.
 Covid Calendar is a project from Fusion. A 2 man project that i worked on with my partner. This app is made fully with SwiftUI to build a functional calendar that take customer date information for lodging.
 
 Respository Link: Not Available <br>
-AppStore: Not Available
+Publication: Not Available
 
 <p align="center"> 
 <img src="images/covidcalendar_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/covidcalendar_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/covidcalendar_3.PNG" width="226" title="Word Guess">
