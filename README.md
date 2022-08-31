@@ -123,7 +123,7 @@ Autism Love is a bank app from Korea.
 Autism love is a project from Fusions Visual. A Team from fusion is handling this project, My role on the team is just some simple bug fixing.
 
 Respository Link: Not Available <br>
-Publication: Not Available
+Publication: https://apps.apple.com/us/app/my%EC%8B%A0%ED%83%81/id1600216044
 
 <p align="center"> 
 <img src="images/autismlove_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/autismlove_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/autismlove_3.PNG" width="226" title="Word Guess">
