@@ -118,7 +118,7 @@ Publication: https://apps.apple.com/id/app/bright-staff/id1603758703
 </p>
 
 # Autism Love
-Autism Love is a bank app from Korea.
+Autism Love is a property management support service app from Korea.
 
 Autism love is a project from Fusions Visual. A Team from fusion is handling this project, My role on the team is just some simple bug fixing.
 
