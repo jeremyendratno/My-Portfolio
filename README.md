@@ -120,7 +120,7 @@ Publication: https://apps.apple.com/id/app/bright-staff/id1603758703
 # Autism Love
 Autism Love is a bank app from Korea.
 
-Autism love is a project from Fusion. A Team from fusion is handling this project, My role on the team is just some simple bug fixing.
+Autism love is a project from Fusions Visual. A Team from fusion is handling this project, My role on the team is just some simple bug fixing.
 
 Respository Link: Not Available <br>
 Publication: Not Available
@@ -132,7 +132,7 @@ Publication: Not Available
 # Covid Calendar
 Covid Calendar is a calendar feature for lodging app.
 
-Covid Calendar is a project from Fusion. A 2 man project that i worked on with my partner. This app is made fully with SwiftUI to build a functional calendar that take customer date information for lodging.
+Covid Calendar is a project from Fusions Visual. A 2 man project that i worked on with my partner. This app is made fully with SwiftUI to build a functional calendar that take customer date information for lodging.
 
 Respository Link: Not Available <br>
 Publication: Not Available
