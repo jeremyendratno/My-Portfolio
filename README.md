@@ -92,3 +92,15 @@ TestFlight: Not Available
 <p align="center">
 <img src="images/stickiz_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/stickiz_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/stickiz_3.PNG" width="226" title="Word Guess">
 </p>
+
+# Brighton
+Brighton is a real estate agent company that modernize with techonological advancement.
+
+Brighton uses iOS as one of their platform to help agents reach out to their customer. The app help customer to browse around agent's property list and make connection with agent more easy. My role on the app is to optimaze the peformance to run better. Cleaning / refactoring the code to be more easily readable and documentable. Improve the UI to be more user friendly and more clean for better user experience.
+
+Respository Link: Not Available
+AppStore: https://apps.apple.com/id/app/brighton-real-estate/id1203280367?l=id
+
+<p align="center">
+<img src="images/brighton_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brighton_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brighton_3.PNG" width="226" title="Word Guess">
+</p>
