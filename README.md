@@ -144,7 +144,7 @@ Publication: Not Available
 # 日本語's Journey
 日本語's Journey is a japanese language learning app.
 
-日本語's Journey is a personal project that i made to help me study japanese. A very simple app that doesn't use api. Content it provides is mostly from my notebook.
+日本語's Journey is a personal project that i made to help me study japanese. A very simple app that doesn't use api. Content it provides is mostly from my notebook. Doesn't use any tool and/or library.
 
 Respository Link: https://gitlab.com/jeremyendratno/jeremy-nihon-go-journey <br>
 Publication: https://testflight.apple.com/join/lOepiy46
@@ -153,3 +153,14 @@ Publication: https://testflight.apple.com/join/lOepiy46
 <img src="images/nihongo_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/nihongo_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/nihongo_3.PNG" width="226" title="Word Guess">
 </p>
 
+# KoronMangaDex
+KoronMangaDex is a manga reading app for MangaDex.
+
+KoronMangaDex is a personal project that i made to comfortablely read manga from an app instead from browser. This app uses MangaDex API for the content. Using MVVM architecture to make a very clean code. Smooth reading experience using only my custom collection view without any outsource library. Soon to be published on AppStore (Still learning about term and condition of API usage on publication).
+
+Respository Link: Not Available <br>
+Publication: https://testflight.apple.com/join/Y4RVtzeb
+
+<p align="center"> 
+<img src="images/manga_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/manga_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/manga_3.PNG" width="226" title="Word Guess">
+</p>
