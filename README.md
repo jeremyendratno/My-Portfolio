@@ -99,7 +99,7 @@ Brighton is a real estate agent company that modernize with techonological advan
 Brighton uses iOS as one of their platform to help agents reach out to their customer. The app help customer to browse around agent's property list and make connection with agent more easy. My role on the app is to optimaze the peformance to run better. Cleaning / refactoring the code to be more easily readable and documentable. Improve the UI to be more user friendly and more clean for better user experience.
 
 Respository Link: Not Available <br>
-AppStore: https://apps.apple.com/id/app/brighton-real-estate/id1203280367?l=id
+Publication: https://apps.apple.com/id/app/brighton-real-estate/id1203280367?l=id
 
 <p align="center"> 
 <img src="images/brighton_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brighton_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brighton_3.PNG" width="226" title="Word Guess">
@@ -139,5 +139,17 @@ Publication: Not Available
 
 <p align="center"> 
 <img src="images/covidcalendar_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/covidcalendar_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/covidcalendar_3.PNG" width="226" title="Word Guess">
+</p>
+
+# 日本語's Journey
+日本語's Journey is a japanese language learning app.
+
+日本語's Journey is a personal project that i made to help me study japanese. A very simple app that doesn't use api. Content it provides is mostly from my notebook.
+
+Respository Link: https://gitlab.com/jeremyendratno/jeremy-nihon-go-journey <br>
+Publication: https://testflight.apple.com/join/lOepiy46
+
+<p align="center"> 
+<img src="images/nihongo_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/nihongo_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/nihongo_3.PNG" width="226" title="Word Guess">
 </p>
 
