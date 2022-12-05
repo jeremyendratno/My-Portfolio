@@ -48,7 +48,7 @@ Publication: Once TestFlighted but not available for now
 # PretHome
 PretHome is an IoT integrated apps that control my home's gate from iOS.
 
-PretHome is a solo project app that is made just for fun learning IoT. This app is a remote to control my home's gate online by giving information to Arudino that is implemented on the gate. So we can open the gate anywhere across the world with just one button on the app.
+PretHome is a personal project that i made for learning IoT. This app is a remote to control my home's gate online by giving information to Arudino that is implemented on the gate. So we can open the gate anywhere across the world with just one button on the app.
 
 Repository Link: https://gitlab.com/jeremyendratno/PretHome <br>
 Publication: Not available
@@ -60,7 +60,7 @@ Publication: Not available
 # GuessYourWaifu
 GuessYourWaifu is a guessing app that lets you be on the top of the scoreboard by guessing some female anime characters.
 
-GuessYourWaifu is a solo project app that is made to learn the integration of Firebase. This app only has some basic functions with Firebase's Database real-time integration for the scoreboard. The scoreboard is like old school retro arcade game, so the user doesn't need to log in.
+GuessYourWaifu is a personal project that i made to learn the integration of Firebase. This app only has some basic functions with Firebase's Database real-time integration for the scoreboard. The scoreboard is like old school retro arcade game, so the user doesn't need to log in.
 
 Repository Link: https://gitlab.com/jeremyendratno/GuessYourWaifu <br>
 Publication: Not Available
@@ -84,7 +84,7 @@ Publication: Not Available
 # Stickiz
 Stickiz is a text storing apps that can be neatly categorized and be used on the keyboard extension.
 
-Stickiz is a solo project app that was made to learn keyboard extension. This app data is stored in CoreData and shared with keyboard extension by app group. The app is made with UIKit and the keyboard extension made with SwiftUI, both of them were made with simple design.
+Stickiz is a personal project that i made to learn keyboard extension. This app data is stored in CoreData and shared with keyboard extension by app group. The app is made with UIKit and the keyboard extension made with SwiftUI, both of them were made with no design in mind.
 
 Repository Link: https://github.com/jeremyendratno/Stickiz <br>
 Publication: Not Available
