@@ -18,7 +18,7 @@ Repository Link: https://gitlab.com/jeremyendratno/foundee <br>
 Publication: Once TestFlighted but not available for now
 
 <p align="center">
-<img src="images/foundee_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/foundee_2.PNG" width="230" title="Word Guess">
+<img src="images/foundee_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/foundee_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/foundee_3.PNG" width="230" title="Word Guess">
 </p>
 
 # Wufy
