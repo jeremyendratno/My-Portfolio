@@ -156,11 +156,23 @@ Publication: https://testflight.apple.com/join/lOepiy46
 # KoronMangaDex
 KoronMangaDex is a manga reading app for MangaDex.
 
-KoronMangaDex is a personal project that i made to comfortablely read manga from an app instead from browser. This app uses MangaDex API for the content. Using MVVM architecture to make a very clean code. Smooth reading experience using only my custom collection view without any outsource library. Soon to be published on AppStore (Still learning about term and condition of API usage on publication).
+KoronMangaDex is a personal project that i made to comfortablely read manga from an app instead from browser. This app uses MangaDex API for the content. Using MVVM architecture to make a very clean code. Smooth reading experience using only my custom collection view without any outsource library. Soon to be published on AppStore (still learning about term and condition of API usage on publication).
 
 Respository Link: Not Available <br>
 Publication: https://testflight.apple.com/join/Y4RVtzeb
 
 <p align="center"> 
 <img src="images/manga_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/manga_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/manga_3.PNG" width="226" title="Word Guess">
+</p>
+
+# kNihongo
+kNihongo is a japanese vocabulary learning app
+
+kNihongo is a personal project that i made using Wanikani's API to learn Japanese kanji / vocabulary. Very clean app design, inspired by the Wanikani website. Writing practice is available, using Apple's vision library to detect handwriting.
+
+Respository Link: Not Available <br>
+Publication: https://testflight.apple.com/join/TrcG7Vab
+
+<p align="center"> 
+<img src="images/kNihongo_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/kNihongo_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/kNihongo_3.PNG" width="226" title="Word Guess">
 </p>
