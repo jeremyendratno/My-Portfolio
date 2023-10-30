@@ -186,5 +186,5 @@ Respository Link: Not Available <br>
 Publication: https://apps.apple.com/id/app/brimerchant/id6450663459
 
 <p align="center"> 
-<img src="images/brimerchant_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brimerchant_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brimerchant_3.PNG" width="226" title="Word Guess">
+<img src="images/brimerchant_1.jpg" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brimerchant_2.jpg" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/brimerchant_3.jpg" width="226" title="Word Guess">
 </p>
